@@ -1,0 +1,1 @@
+Ez egy egyszerű footer html és css
